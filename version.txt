@@ -1,3 +1,1 @@
-zumi:0.0.36
-zumi-flask:0.0.0
-demo:0.0.0
+zumi-flask:0.2
