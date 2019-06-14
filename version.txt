@@ -1,1 +1,1 @@
-zumidashboard:0.83
+zumidashboard:0.85
