@@ -1,1 +1,1 @@
-zumidashboard:1.01
+zumidashboard:1.10
